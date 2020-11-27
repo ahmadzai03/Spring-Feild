@@ -1,0 +1,40 @@
+body {
+  font-family: 'Sansita Swashed', cursive;
+  
+ padding: 100px;
+  
+}
+
+.number {
+  font-size: 50;
+  padding: 50px;
+}
+
+
+button {
+  
+  font: normal 14px/100% "Andale Mono", AndaleMono, monospace;
+  color: turquoise;
+ 
+  background-color: #6bbe92;
+  border: 0;
+  width: 30px;
+  margin: 1px;
+ 
+  color: #fff;
+  font-weight: bold;
+  font-size: 30px;
+}
+img {
+  height:100px
+}
+.number {
+  margin-left: 45px;
+}
+.order {
+  padding:25px
+}
+.spring {
+  font-size: 50;
+  padding: 50px;
+}
